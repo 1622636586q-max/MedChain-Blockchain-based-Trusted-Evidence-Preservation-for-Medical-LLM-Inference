@@ -1,0 +1,9 @@
+# Off-chain vault prototype secret (never commit real keys)
+.offchain_vault_key
+
+outputs/
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
