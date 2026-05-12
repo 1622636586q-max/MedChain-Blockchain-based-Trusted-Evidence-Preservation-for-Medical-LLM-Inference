@@ -1,6 +1,5 @@
 # MedChain — Blockchain-based Trusted Evidence Preservation for Medical LLM Inference
 
-
 Minimal repository: **mock ledger + commitment / audit pipeline + optional Ethereum deploy/submit**.  
 There is **no** plotting stack (no matplotlib, no figure scripts, no PNG outputs from Python).
 
